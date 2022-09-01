@@ -1,0 +1,28 @@
+/* Index */ 
+#main-header {
+    font: #df5555 !important;
+    background-color: azure;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+li {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+/* Recipes */ 
+.title {
+    font: black;
+    background-color: azure;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.ingredients, .description {
+    background-color: rgb(224, 153, 20);
+    font-family: sans-serif;
+}
